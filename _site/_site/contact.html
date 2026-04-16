@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us</title>
+  <link rel="stylesheet" type="text/css" href="/contact.css"
+</head>
+
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="/index.html">Home</a></li>
+        <li><a href="/about.html">About Us</a></li>
+        <li class="active"><a href="/contact.html">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="contact-form">
+      <h2>Official Submissions</h2>
+      <p>Fill out the form below to submit a book analysis.</p>
+      <form action="/sent" method="post"> <!-- Change this to your mail server URL -->
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name"><br><br>
+        <label for="mothername">Mother's Maiden Name:</label>
+        <input type="text" id="mothername" name="mothername"><br><br>
+        <label for="date">Date of Birth:</label>
+        <input type="date" id="DOB" name="DOB"><br><br>
+        <label for="bookname">Book Name:</label>
+        <input type="name" id="bookname" name="bookname"><br><br>
+        <label for="message">A Relevant Episodic Experience</label>
+        <textarea id="message" name="message"></textarea><br><br>
+        <label for="message">Book Analysis:</label>
+        <textarea id="message" name="message"></textarea><br><br>
+        <button type="submit">Send</button>
+      </form>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Chinese Gay Men Hugging & Kissing LLC. All rights reserved.</p>
+  </footer>
+</body>
+</html>

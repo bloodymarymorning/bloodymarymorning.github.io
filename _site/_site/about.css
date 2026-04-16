@@ -1,0 +1,79 @@
+/* Global Styles */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-image: linear-gradient(to bottom, #1b1d23, #3a3d41);
+  color: #f7f7f7;
+  height: 100vh; /* Make the body take up the full viewport height */
+  margin: 0;
+}
+
+header {
+  background-color: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(5px);
+  border-bottom: 1px solid #3a3d41;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+
+  /* Make the header take up a percentage of the viewport width */
+  max-width: 100vw;
+}
+
+header h1 {
+  font-size: calc(36px + (24 - 16) * ((100vw - 320px) / (1200 - 320)));
+  margin: 20px;
+  text-align: center;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  /* Make the main content take up a percentage of the viewport height */
+  max-height: 80vh;
+}
+
+.about-section {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+
+  /* Make the about section take up a percentage of the viewport width */
+  max-width: 80vw;
+
+  padding: 20px;
+}
+
+.about-section h2 {
+  font-size: calc(24px + (18 - 12) * ((100vw - 320px) / (1200 - 320)));
+  margin-bottom: 10px;
+}
+
+.rules-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+  /* Make the rules list take up a percentage of the viewport height */
+  max-height: 70vh;
+}
+
+.rule-item {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+  /* Make the rule items take up a percentage of the viewport width */
+  max-width: 80vw;
+
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.rule-item strong {
+  font-weight: bold;
+}
