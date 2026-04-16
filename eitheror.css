@@ -58,7 +58,7 @@ a:hover {
 
 /* Media queries for mobile devices */
 @media (max-width: 768px) {
-    .container, .inner-container {
+    .container {
         max-width: 95%;
         padding: 20px;
     }
