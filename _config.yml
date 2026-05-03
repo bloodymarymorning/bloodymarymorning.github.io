@@ -1,5 +1,17 @@
 name: Leviathianic
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
-
+title: Leviathianic
+author: Fernando
 plugins:
   - jekyll-include-cache
+
+# Minimal Mistakes overrides
+include:
+  - "_pages"
+exclude:
+  - "README.md"
+  - "git.ignore"
+
+_engine: jekyll/minimal-mistakes-jekyll
+minimal_mistakes_skin: "air"
+
