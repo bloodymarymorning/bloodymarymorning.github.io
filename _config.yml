@@ -1,6 +1,7 @@
 name: Leviathianic
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 title: Leviathianic
+url: http://leviathianic.com
 author: Fernando
 plugins:
   - jekyll-include-cache

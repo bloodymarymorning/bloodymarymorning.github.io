@@ -1,0 +1,22 @@
+---
+layout: home
+---
+
+{% for post in paginator.posts %}
+  <article class="post h-entry">
+    <h1 class="post-title p-name"><a href="{{ post.url | relative_url }}" class="u-url">{{ post.title }}</a></h1>
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="dt-published" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time>
+    {{ post.content }}
+  </article>
+{% endfor %}
+
+<!-- Pagination -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">Previous</a>
+  {% endif %}
+  
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}" class="next-page">Next</a>
+  {% endif %}
+</div>
