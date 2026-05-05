@@ -1,18 +1,17 @@
 name: Leviathianic
-remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 title: Leviathianic
 url: http://leviathianic.com
 author: Fernando
-plugins:
-  - jekyll-include-cache
 
 # Minimal Mistakes overrides
-include:
-  - "_pages"
-exclude:
-  - "README.md"
-  - "git.ignore"
-
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 _engine: jekyll/minimal-mistakes-jekyll
 minimal_mistakes_skin: "air"
+
+# Build Settings
+markdown: kramdown
+paginate: 5
+
+plugins:
+  - jekyll-include-cache
 
