@@ -6,7 +6,7 @@ author: Fernando
 # Minimal Mistakes overrides
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 _engine: jekyll/minimal-mistakes-jekyll
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "aqua"
 
 # Build Settings
 markdown: kramdown
