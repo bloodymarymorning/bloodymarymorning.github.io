@@ -1,0 +1,50 @@
+---
+layout: post
+title: Shadowgraphs
+date: 2026-05-05 10:09 -0400
+---
+
+We first look to an essay, "Laokoon", written 250 years ago by a German guy called Lessing. We extract the delineation between two spheres of art: the spatial and the temporal. We note that this essay was written well before Einstein
+gave us his theory of relativity, which posits reality to us as a continuum of space and time. We giggle to ourselves a little bit, but not enough to distract us from our important line of inquiry. 
+
+Laokoon wants to help us understand the big difference between the two prevailing categories of art at the time: sculpture/painting and poetry. We are told that sculpture belongs to the category of space, poetry to that of time.
+Sculpture is repose, poetry is movement. Painting and sculpture want to imitate reality with a spatial arrangement of shapes and colors; the same goal is pursued by the poet through the succession of articulated sounds over time. 
+
+To no great surprise of ours, these two spheres of expression excel at expressing different categorical vantage points. Kierkegaard nudges us toward a fuller understanding: think of the expression of joy in art compared to that of sorrow. 
+The opposing natures of these two human sensations naturally lead to opposing requirements for their artistic expression. 
+
+"Joy is communicative, sociable, open-hearted, and wants to express itself; sorrow is reserved, silent, solitary, and seeks to retire into itself. Surely not even life's most casual observer will deny that this is correct."
+
+Yet these are only tendencies, we know that sorrow can be expressed outwardly just as simply as joy can. Sorrow, however, comes in a greater diversity of flavors. What is likely clearer to us in modernity than it was to our friends in the 18th century,
+is that there is something liberating and healing in the outward expression of sorrow, and there is something strangling and venomous about its extended sequestration in the soul.
+Kierkegaard now divides sorrow into immediate and reflective sorrow. Sorrow can only be represented in spatial art when it is externally visible, when it is immediate. Reflective sorrow is characterized by its inability to find repose and reconcile with
+the sufferer, hence its inability to work its way outwards and become something that can be represented spatially. 
+
+Think carefully about "immediate". It means "not mediated", it means there is nothing standing between the sorrow and its owner. This is in contrast to reflective sorrow, which is restlessly obfuscated in a constant varying of combinations of 
+sorrow's inner elements. 
+
+"Seeking its way thus inwards, it finds at last an enclosure, an innermost recess, where it thinks it can stay, and now it begins its monotonous movement. Like the pendulum in a clock it swings back and forth and cannot find rest. It begins always
+at the beginning and ponders anew, interrogates the witnesses, collates and tests their various statements, as it has already done a hundred times, yet it is never finished."
+
+Kierkegaard writes these things for us at a time when the idea of psychoanalysis has not yet been developed. There is a lonely originality in his writing which I cannot overstate. It's very dark, very melancholic, but the call to action we are
+about to discuss is one of the most sincere and compassionate things I have ever succeeded in understanding and internalizing. 
+
+A shadowgraph gives us no impression when we look directly at it; it is only when we fasten our attention to the shadow it projects on a wall that we see it and form an idea of it. We must look THROUGH the exterior to catch a glimpse of the delicate inner 
+picture woven into the soul. We are occupied not with the external, but with the secret beckoning of sorrow from its innermost hiding place. We pass one another in the street, one looks like the other, the other just like anyone else. It is only the
+experienced observer who suspects, in the mind of the other, the existence of a lodger who has nothing to do with the world, but lives out his lonely life confined to quiet domesticity. Look long and attentively at a face, you will sometimes discover
+that it is as if there were another face within the one you see. 
+
+"The present is forgotten, the outer is penetrated, the past resurrected, sorrow's breathing is made easy. The sorrowing person finds relief, and sorrow's sympathetic knight rejoices in having found what he was seeking. We seek not the present but
+the past, not joy, for that is always present, but sorrow, because its nature is to pass by, and in the instant of the present one sees it only as one sees a person of whom one just catches sight at the moment he turns the corner and disappears." 
+
+"We love only sorrow, it is sorrow alone we seek out and wherever we find its footprints we follow them, undaunted, unwavering, until it stands revealed." 
+
+It is not a detached intellectual curiosity which drives us in our pursuit of cunning sorrow in its hiding places, but a SYMPATHETIC DREAD. Such a knight of sorrow, in his own mind, is not a scientist or an artist, though he does what he does for his own
+sake. The private, reflective sorrow that is the subject of our interest possesses a cunning which is our main adversary, it is the prisoner for life in solitary confinement whose escape we expedite with psionic incantation and careful observation.
+We, sorrow's close associates, want only to give sorrow its occasion to find inward beauty and peace through outward expression. We hope not to directly assuage the inner unrest that hampers transparency, but to halt its perpetual consumption and 
+domination of the outer so that it may find its expression and become beautiful to us who observe. 
+
+To us sympathetic knights, sorrow's seductive peculiarity is its ability to steal through our world so mysteriously, and to cover its tracks so masterfully. In organizing our pursuit, we form no far-reaching plans. We know of life's misery and its
+perfidy, we see life's storm ever approaching to snatch us away, we look upon death as the greatest good fortune. The divine secrets of the universe are not to be found within the rushing wind but in the gentle breeze; yet our ears are not made to
+pick up such gentle breezes, only to gulp in the din of the elements. 
+
