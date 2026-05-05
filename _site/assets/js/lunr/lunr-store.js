@@ -14,6 +14,6 @@ var store = [{
         "title": "Fernando's Structural Narrative",
         "excerpt":"This is a structural narrative, not to be confused with a narrative structure. I know very little about web design, but I know all the philosophy that has ever existed or will ever exist. Something else we need to clear up. What the fuck is/are dialectics? I asked AI and,...","categories": [],
         "tags": [],
-        "url": "/2026/05/05/fernando-s-structural-narrative.html",
+        "url": "/2026/05/05/fernando-structural-narrative.html",
         "teaser": null
       }]
