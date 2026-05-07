@@ -6,7 +6,7 @@ author: Fernando
 # Minimal Mistakes overrides
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 _engine: jekyll/minimal-mistakes-jekyll
-minimal_mistakes_skin: "aqua"
+minimal_mistakes_skin: "neon"
 
 # Build Settings
 markdown: kramdown
@@ -14,11 +14,5 @@ paginate: 5
 
 plugins:
   - jekyll-include-cache
-  
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "single"
+ 
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Greek Tragedy
 date: 2026-05-03 12:22 -0400
 ---

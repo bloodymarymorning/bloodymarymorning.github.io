@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Shadowgraphs
 date: 2026-05-05 10:09 -0400
 ---

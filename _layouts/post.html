@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: null
 ---
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
     <h1 class="post-title p-name">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.author %} • {% endif %}{% include author-profile.html %}</p>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time></p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
@@ -16,9 +16,3 @@ layout: default
     {% include comments.html %}
   {% endif %}
 </article>
-
-{% if page.related_posts.size > 0 %}
-  {% include related-posts.html posts=page.related_posts %}
-{% endif %}
-
-{% if page.show_subscribe %}{% include subscribe.html %}{% endif %}

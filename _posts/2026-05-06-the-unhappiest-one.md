@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Unhappiest One
 date: 2026-05-06 08:55 -0400
 ---

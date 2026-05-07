@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Fernando's Structural Narrative
 date: 2026-05-05 10:12 -0400
 ---
