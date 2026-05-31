@@ -6,11 +6,10 @@ author: Fernando
 # Minimal Mistakes overrides
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 _engine: jekyll/minimal-mistakes-jekyll
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "plum"
 
 # Build Settings
 markdown: kramdown
-paginate: 8
 
 plugins:
   - jekyll-include-cache
