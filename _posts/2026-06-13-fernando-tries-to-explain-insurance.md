@@ -1,0 +1,101 @@
+---
+layout: single
+title: Fernando Tries To Explain Insurance
+date: 2026-06-13 13:07 -0400
+---
+I decided it would be in my therapeutic interest to attempt to study understand the American health insurance industry. Don't laugh. 
+
+We're going to start from the most general representation I can conjure for the concept of insurance. By the end, maybe we'll understand how the idea got so horribly mangled by business interests. Probably not, but maybe. 
+
+Before we do that, I want to absent-mindedly direct your attention for a moment to three similar but distinct words: Insure, Ensure, Assure. Did you see them? Ok great, moving on. 
+
+In an economy without the concept of money, "insurance" takes the form of **an agreement of mutual aid in adverse circumstances**. I think this will serve us well as our raw definition of insurance. 
+
+Every family in our village this year had a great harvest, except for one. Nobody knows why, it doesn't seem to be a result of human agency, we could say it was an act of god. It could have just as easily happened to your family. 
+What if everyone gives 5% of their harvest to this unfortunate family? What if, next year, your family is the unfortunate one, and you are rescued by the same community safety net?
+
+As always, the material effects are obvious, the psychological effects less so. The awareness of the protective social safety net insulates you from arbitrary "acts of god", it provides constant reassurance. In this way, an insurance ecosystem is 
+self-reinforcing. The fear of the future and of things unknown is innate, and one who finds himself scattered from the herd is vulnerable to nature's indifference. 
+
+Not all ancient societies were so rustic; insurance takes a more sophisticated form in a monetary society like China in ~2000BCE. A Chinese merchant wants to move goods across a dangerous river. He will distribute the goods among ten ships, two will sink.
+
+The Chinese merchant has implemented a monetary insurance principle: **the distribution of risk**, which can also be called "hedging bets". If we were to define hedging in this context, it would be protection against catastrophe by means of supporting
+or planning for a multitude of different outcomes. To a modern financier, to put all your eggs in one basket is to tempt god. To a medieval monotheist, any eggs found outside the ordained basket are subject to summary execution.
+
+Ironically enough, maritime insurance thrived in monotheistic medieval europe. We'll pull out the idea of *bottomry* and take a close look at it to get a sense of what insurance meant to the people of this time. 
+
+Bottomry is a very old idea, and it remained a dominant insurance method until around the beginning of the 19th century. In the words of Plutarch: *"It is an arrangement which is easy to describe but difficult to characterize: not a pure loan, because the*
+*lender accepts part of the risk; not a partnership, because the money to be repaid is specified; not pure insurance, because it does not specifically secure the risk to the merchant's goods."*
+
+Since I'm way dumber than Plutarch and most of that goes over my head, I will lay it out in the simplest terms I can. 
+
+I am the captain (not the owner, only the operator) of a ship, and midway through my journey around the cape my ship takes unforeseen damage and makes an unplanned stop in a foreign port. In order to continue to the end of my journey, I will need more money
+than I now have available. What do?
+
+Find someone in the port with enough money to give me a loan, and secure the loan using the only collateral I have: the ship. For this to be worth it to the lender, they will charge me very high interest on this loan. 
+One of two things happens now. If the ship is lost at sea, the debt is completely forgiven and the lender loses his money. If the ship completes its voyage, the ship captain is legally obligated to repay the loan with interest. 
+
+The practice of bottomry promoted the very common and lucrative captain's practice of *pretending* your ship was lost at sea, which would later be lovingly dubbed **insurance fraud**.
+
+Reader, be warned, here I abandon all pretense of pleasure or of entertainment. This is a solemn history we follow in our desperate quest for a more complete understanding of the forsaken labyrinth that is the American Health Insurance Industry.
+
+The USA exists under a system of **Compulsory Health Insurance.** In other words, the government (state or federal) *requires* individuals to purchase or enroll in health insurance coverage. What is the rationale behind this? How did it come to be?
+I find myself suspiciously wondering why something that is ostensibly beneficial to me would be forced upon me in this way. You can force your child to eat vegetables for his own good, but you do not and should not expect him to pay you for them afterwards.
+
+One of the many complex issues that arises from the concept of health insurance as *mutual aid in adverse circumstances* has human empathy at its core. To illustrate the *free rider problem*, let us imagine a social system which exists as follows:
+
+100 people live in a community, and 95 of them participate in health insurance coverage. In other words, 95 of them are creating a communal wealth pool to be drawn from by any *contributing member* in case of a health-related crisis. Of the other 5, one of
+them is young Lucius, who crashed his new Porsche into a telephone pole yesterday. The community feels confident in their lack of obligation to help Lucius pay for his car, but what about helping him to fix his broken body? You can't help it, you imagine yourself,
+or even your child, empathy drives you to do what you know is right. The problem is that although *most* of us are naturally empathetic, *all* of us are depraved and selfish, and we cannot just forgive Lucius for his lack of foresight. He had ample resources
+to insure himself, and he chose not to, yet he will reap the benefits of the wealth pool we created for ourselves, because we cannot help but feel some of ourselves in him. Lucius is a free rider, and free riders break the equilibrium of the system. But don't
+we righteous 95 come out of all this looking a bit hypocritical? By helping Lucius right before we clap chains on him, are we, in a moral sense, having our cake and eating it too? Is Lucius responsible for the consequences of his own decisions or not? 
+Do we have the courage to allow him to be? Is it a matter of courage or of cruelty? Is it our responsibility to hold him responsible?
+
+Another complex issue which demands our attention is called *adverse selection*. This concept is an economic one, going beyond the pithy realm of insurance. Though macabre in the context of health insurance, adverse selection causes a spiralling degradation
+in the quality of goods available in the market. (We'll just brush right past the heartwarming notion that health insurance creates a framework in which sick people are conceptually reduced to low quality goods.)
+
+The idea of adverse selection was first described in the context of life insurance, as: *a demand for insurance positively correlated with the insured's risk of loss.* In other words, people who are more likely to benefit from life insurance are more likely to
+seek it out. Although this is a perfectly predictable outcome of the created incentive structure, we choose to contort the person to fit the structure. As more and more smokers buy life insurance, the average mortality rate of the insured pool rises, which
+means it becomes more expensive for the insurer to insure them. Did I say more expensive for the insurer? A slip of the tongue. The insurance will cost more for the consumer, and it will stop making sense for non-smokers to pay for it (they pay more and benefit less or the same).
+
+This applies just as well to health insurance: people who are more likely to get sick need insurance more and they will use it more, and we see this as a problem to be levelled out. But already it feels like we are losing sight of the original purpose of
+insurance: a social safety net for the less fortunate. Does it really mean anything to be insured when your all your possible futures have been statistically tabulated and all your costs are scaled up in equal proportion to the risk you pose? 
+The adverse selection issue is "solved" by *charging insurance payments that reflect the customer's risk, distinguishing high-risk from low-risk individuals.* 
+
+What if, in disgust, we throw the existing American Health Insurance Industry into the stinking refuse pile where we think it belongs? What if the meddling insurer were removed from the relationship between patient and doctor? 
+A void is admittedly left by this, and it demands an answer to the question of what can be considered *medically necessary* and it demands an authority charged with the determination. This void is here because human frivolity will lead us to chaos if it is
+not regulated in some way, we all know this. Aunt Jean is prone to complaining about her hip, and maybe she's a weak and dramatic creature who will soak up far more medical attention than she actually requires. The truth is that she will actually tyrannize
+the rest of us with her burden if we allow her to. We have to find some way to deem her daily emergency room visits as "not medically necessary", and thus find a way to dissuade her from seeking medical attention. We have to gatekeep healthcare to some degree
+to ensure resources are valuable when they are needed, to ensure the system can function. Insurance providers currently play the role of gatekeeper. They do a job nobody has the authority to do, because it needs to be done, and in the process they are 
+bestowed with authority they are unworthy of. 
+
+Admittedly, much of the venom swirling around the insurance industry has to do with general institutional mistrust: the average person does not believe the socioeconomic system has their interests in mind. A coverage denial is seen as an act of bad faith
+in most cases, is it morally permissible to reduce your pains and experiences to a statistical model, and from this model derive a yes or a no as to whether you deserve treatment? What kind of a person feels okay about doing that sort of thing?
+Surely they are evil and depraved people who want to crush me under a mountain of private capital? Well, sometimes they are and sometimes they aren't. Such is the morally speckled countenance of the human being. I am interested in the ones who
+believe themselves not corrupted by greed and fear, but faithful servants of some well-meaning deity. 
+
+Charles Babbage was a genius of statistics, an accomplished cryptographer, an inventor of many things, his work would lead to the development of *mortality and morbidity tables.* These are statistical predictors of death and illness. 
+He often duels with Alan Turing in the popular imagination for the title of "father of the computer". Yet Turing was a self-described materialist and an atheist, while Babbage was a man of faith. 
+My instincts tell me that an actuarial theorist cannot exist in the same head as one devoted to the christian god. I am hungry to understand my mistake. 
+
+Babbage wrote a book titled *"On the Power, Wisdom and Goodness of God, as manifested in the Creation"*. This is the same man who would happily run your life through a stochastic model and try to glimpse the future through the past. 
+It pains me to assimilate the following paradox into my worldview: Babbage was a believer in miracles and in divine agency **and** an accomplished scientist and philosopher. It is a paradox to me because I cannot bring myself to agree to the teleological
+argument on which his faith rested. This is a rational argument for the existence of god which uses the complex functionality of the natural world to its advantage. A teleologist would have you believe that the universe is a result of intelligent creation,
+and that uncovering the mysteries of the creation through scientific inquiry is pleasing to the creator. This belief has existed since at least Ancient Greece, and is readily adaptable to the whatever religion your culture likes best. 
+
+*"The air itself is one vast library on whose pages are for ever written all that man has ever said or woman whispered."* - Babbage
+
+*[insert your favorite teleological conclusion here]*
+
+
+
+
+
+
+
+
+
+
+
+
+
