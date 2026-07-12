@@ -7,6 +7,7 @@ My friend Leonidas and I disagree on many things. I decided to give him a space 
 Fernando, the subject of all your admiration. In my view, Leonidas is not worthy of your admiration, but it is in your best interest to give him your consideration. He is not the only creature of his kind. 
 
 *"More like the Endarkenment! Am I right?*" - Alex Karp, 2025
+
 __
 
 People are always asking me, "Leonidas, if God is omnipotent and benevolent then why does he allow something like Palantir to exist?" I insist to them that they are not prepared to have their question answered, they are not equipped to handle a theodicy.
