@@ -2,6 +2,7 @@
 layout: single
 title: Fernando atop the Tower
 date: 2026-05-26 09:56 -0400
+categories: [Penis]
 ---
 
 I have been reading the Bible and discovering again the power of perspective. As an adolescent I always had a distaste for what I thought was the Bible - as I grew and examined more closely I realized my disdain was instead for all the things and people
