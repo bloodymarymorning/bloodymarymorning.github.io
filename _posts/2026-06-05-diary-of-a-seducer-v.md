@@ -2,6 +2,7 @@
 layout: single
 title: Diary of a Seducer V
 date: 2026-06-05 10:27 -0400
+categories: [Kierkegaardian]
 ---
 
 **Fernando - Aside**

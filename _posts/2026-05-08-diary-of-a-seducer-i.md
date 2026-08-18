@@ -2,6 +2,7 @@
 layout: single
 title: Diary of a Seducer I
 date: 2026-05-08 11:51 -0400
+categories: [Kierkegaardian]
 ---
 
 When this piece of writing is analyzed in the full context of Kierkegaard's life, the multiplicity of layers involved makes me dizzy. So I'll start with a straightforward analysis/outline, and see what develops from this.

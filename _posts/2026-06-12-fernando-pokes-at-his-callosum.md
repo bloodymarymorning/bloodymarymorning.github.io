@@ -2,6 +2,7 @@
 layout: single
 title: Fernando Pokes At His Callosum
 date: 2026-06-12 12:38 -0400
+categories: [Fernando]
 ---
 
 Please pretend you've never been exposed to the vacuous pop culture conception of "left brain for logic, right for creativity". It's not that this is necessarily wrong, but it's woefully insufficient. Both brain hemispheres have some part to play in almost

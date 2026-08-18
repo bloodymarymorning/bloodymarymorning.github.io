@@ -2,6 +2,7 @@
 layout: single
 title: Fernando on Randomness
 date: 2026-05-23 07:00 -0400
+categories: [Fernando]
 ---
 
 I find that I am continually haunted in my life by a core set of theoretical issues, which is very much preferable to being haunted by my core set of practical issues. The theoretical ones are more flexible, they conform to me, not I to them. 

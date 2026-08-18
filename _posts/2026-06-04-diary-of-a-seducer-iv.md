@@ -2,6 +2,7 @@
 layout: single
 title: Diary of a Seducer IV
 date: 2026-06-04 09:38 -0400
+categories: [Kierkegaardian]
 ---
 
 **Johannes, The 19th**
