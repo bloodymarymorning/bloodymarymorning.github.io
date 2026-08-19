@@ -23,10 +23,10 @@ How long can someone spend in this kind of confusion? There is no such thing as 
 
 He experiences a constant physical pain without a discernable physical origin. There is a certain cosmic irony in this. For as long as I've known him, he has possessed an unusual existential bent. With a characteristically grave facial expression, he tells me
 how he, as a freshman in highschool, made a concerted inner effort to excise his own sense of empathy. He tells me he's neither proud nor ashamed of this attempt to self-convert into sociopathy. He sees his desire to be rid of empathy at such a young age as something
-that fell on his head from outside, not something that rose to his mind from inside. He does not consider this desire to really have ever belonged to him, he consderes this a misuse of his intuition. When I asked him why he thinks he adopted this desire,
+that fell on his head from outside, not something that rose to his mind from inside. He does not consider this desire to really have ever belonged to him, he considers this a misuse of his intuition. When I asked him why he thinks he adopted this desire,
 regardless of its true origin, he tells me that pain is the answer. He wanted to protect himself from the pain that comes with the depth of feeling he feels himself capable of having for others. This I can understand. 
 
-I asked him what other things he believes arise from something other than concious choice, and without thinking he replied: faith. He tells me the same empathy-excision pattern manifests itself in relation to religion. As much as he'd rather not vicariously
+I asked him what other things he believes arise from something other than conscious choice, and without thinking he replied: faith. He tells me the same empathy-excision pattern manifests itself in relation to religion. As much as he'd rather not vicariously
 feel the sufferings of others, he does feel them, and to refuse to feel them is to refuse himself a real existence on this earth. As much as he'd rather have faith, and the security of feeling like someone is watching and protecting him, he doesn't have this.
 Why not pretend to be callous and faithful, I ask? He answers: pretend for who?
 
