@@ -35,7 +35,7 @@ have been before. He wakes up in a low-grade pain, exists all day in low-grade p
 
 The idea of the pain is insulting, why? What is the object of derision? Where does the insult come from, and who is its terminal recipient? He heard me ask him these questions, I got the impression he vaguely expexted me to ask them, but he had no answer prepared.
 We sat in silence for a couple mintes while he racked his brain. When the silence was broken, he told me he just can't even guess at the source of the insult, unless it is coming straight out of his unconcious mind and slipping the barrier of conciousness. Maybe
-the insult was granted special passage in the realm of unconciousness, for reasons that are evidently crucially important but as of yet utterly unknown to me. As for the destination of the insult, he told me with confidence that, nowadays, the insult
+the insult was granted special passage in the realm of unconciousness, for reasons that are evidently crucially important but as of yet utterly unknown to him. As for the destination of the insult, he told me with confidence that, nowadays, the insult
 almost always passes through him. That is to say: the insult is launched from its origin, and he is one of the intermediaries between origin and destination. Since he is not the destination, and his perception is limited, he cannot say with certainty where
 the insult sticks its malicious landing. He does not know the destination, but he can feel his own proximity to the destination based on the sound of the insult's impact with its landing surface. Since he left his job and spent years wallowing in his miserable
 confusion, he has gotten farther away from the insult's destination - he is less strongly associated with the thing which is being relentlessly insulted. His ideas have changed significantly since the insult was at peak impact, and based on this he thinks
@@ -53,5 +53,5 @@ For the sake of example, imagine Bob, he writes 8 memos per workday, and this ta
 
 Oops, actually that's wrong. Nothing changed for Bob, but maybe his boss is happier, because now Bob can type 64 memos per day instead of 8. Bob can now be 8x more effective with his time, and we could, if we wanted to, make a pretty strong case for Bob
 getting paid more or getting to spend less of his week writing memos. But... why would we want to do that? Bob is a resource from which we extract value for the company, and we reserve the right to go on extracting and extracting and extracting at the same
-rate no matter what else happens. What would Bo do with all that free time anyways? Write poetry? Stare at a river? These things generate no value! Bob is wasting valuable company time with these things! You accuse us of owning Bob? Preposterous! We only own
+rate no matter what else happens. What would Bob do with all that free time anyways? Write poetry? Stare at a river? These things generate no value! Bob is wasting valuable company time with these things! You accuse us of owning Bob? Preposterous! We only own
 the vast majority of the time that constitutes his waking life!
