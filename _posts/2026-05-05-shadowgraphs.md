@@ -2,7 +2,7 @@
 layout: single
 title: Shadowgraphs
 date: 2026-05-05 10:09 -0400
-categories: [Kierkegaardian]
+tags: [Kierkegaard, Trash]
 ---
 
 We first look to an essay, "Laokoon", written 250 years ago by a German guy called Lessing. We extract the delineation between two spheres of art: the spatial and the temporal. We note that this essay was written well before Einstein

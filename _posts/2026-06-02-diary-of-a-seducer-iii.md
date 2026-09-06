@@ -2,7 +2,7 @@
 layout: single
 title: Diary of a Seducer III
 date: 2026-06-02 11:10 -0400
-categories: [Kierkegaardian]
+tags: [Kierkegaard, Trash]
 ---
 
 **Johannes, The 20th**

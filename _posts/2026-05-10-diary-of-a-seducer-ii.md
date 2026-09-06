@@ -2,7 +2,7 @@
 layout: single
 title: Diary of a Seducer II
 date: 2026-05-10 11:22 -0400
-categories: [Kierkegaardian]
+tags: [Kierkegaard, Trash]
 ---
 
 **Johannes, The 5th**

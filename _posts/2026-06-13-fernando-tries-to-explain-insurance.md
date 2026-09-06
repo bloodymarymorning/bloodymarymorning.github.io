@@ -2,7 +2,7 @@
 layout: single
 title: Fernando Tries To Explain Insurance
 date: 2026-06-13 13:07 -0400
-categories: [Fernando]
+tags: [Fernando, Trash]
 ---
 I decided it would be in my therapeutic interest to attempt to study understand the American health insurance industry. Don't laugh. 
 

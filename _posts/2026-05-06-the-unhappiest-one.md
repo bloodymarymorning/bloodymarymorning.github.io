@@ -2,7 +2,7 @@
 layout: single
 title: The Unhappiest One
 date: 2026-05-06 08:55 -0400
-categories: [Kierkegaardian]
+tags: [Kierkegaard, Trash]
 ---
 
 We'll begin with a thematic examination of a word in the context of its semantic drift. The word is **Decimation**. 

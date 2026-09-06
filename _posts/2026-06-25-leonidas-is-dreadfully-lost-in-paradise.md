@@ -2,7 +2,7 @@
 layout: single
 title: Leonidas is Dreadfully Lost in Paradise
 date: 2026-06-25 12:18 -0400
-categories: [Biblical]
+tags: [Biblical, Trash]
 ---
 My friend Leonidas and I disagree on many things. I decided to give him a space to espouse his views; he has chosen to use John Milton's *Paradise Lost* as a vehicle. Before handing it to him, I want you to know that these views do not represent me,
 Fernando, the subject of all your admiration. In my view, Leonidas is not worthy of your admiration, but it is in your best interest to give him your consideration. He is not the only creature of his kind. 

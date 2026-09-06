@@ -2,7 +2,7 @@
 layout: single
 title: Fernando's Structural Narrative
 date: 2026-05-05 10:12 -0400
-categories: [Fernando]
+tags: [Fernando, Trash]
 ---
 
 This is a structural narrative, not to be confused with a narrative structure. I know very little about web design, but I know all the philosophy that has ever existed or will ever exist. 

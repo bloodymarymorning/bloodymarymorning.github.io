@@ -13,5 +13,10 @@ markdown: kramdown
 
 plugins:
   - jekyll-include-cache
- 
+
+collections:
+  tag:
+    output: true
+    permalink: /tags/:tag/
+    source: _posts
 

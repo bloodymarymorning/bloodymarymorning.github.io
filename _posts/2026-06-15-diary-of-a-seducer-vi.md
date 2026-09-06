@@ -2,7 +2,7 @@
 layout: single
 title: Diary of a Seducer VI
 date: 2026-06-15 10:39 -0400
-categories: [Kierkegaardian]
+tags: [Kierkegaard, Trash]
 ---
 
 **Johannes, June 3rd**

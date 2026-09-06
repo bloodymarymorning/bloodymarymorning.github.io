@@ -2,7 +2,7 @@
 layout: single
 title: Wilhelm II
 date: 2026-08-19 10:05 -0400
-categories: [Wilhelm]
+tags: [Wilhelm, Trash]
 ---
 
 I have a friend, and I don't want to use his name here, but I do want to talk about him. We used to be close, but years have passed since we last spoke. We parted on no particular terms, we just drifted off in different directions as we transitioned into

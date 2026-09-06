@@ -2,7 +2,7 @@
 layout: single
 title: Greek Tragedy
 date: 2026-05-03 12:22 -0400
-categories: [Kierkegaardian]
+tags: [Kierkegaard, Trash]
 ---
 
 Kierkegaard wants us to attempt to understand the worldview, or the underlying framework of beliefs and ideas, of our Greek ancestors. Our approach here is to study the Greek tragedy as an art form, and compare it to the modern tragic structure.
