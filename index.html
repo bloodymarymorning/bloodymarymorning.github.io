@@ -3,19 +3,22 @@ layout: splash
 title: "Leviathianic"
 ---
 
-{% for tag in site.tags %}
-  <li>
-    <a href="{{ site.baseurl }}/tags/{{ tag[0] }}/">{{ tag[0] }}</a> 
-    ({{ tag[1].size }})
-  </li>
-{% endfor %}
-
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }} // {{ post.date | date: "%B %d, %Y" }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 <!--
 this will display tag names and numbers
 
 {% for tag in site.tags %}
-    <li>{{ tag[0] }} ({{ tag[1].size }})</li>
+  <li>
+    <a href="{{ site.baseurl }}/tags/{{ tag[0] }}/">{{ tag[0] }}</a> 
+    ({{ tag[1].size }})
+  </li>
 {% endfor %}
 
 
