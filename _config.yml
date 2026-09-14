@@ -15,7 +15,7 @@ plugins:
   - jekyll-include-cache
 
 collections:
-  tags:
+  tag:
     output: true
     permalink: /tags/:tag/
     source: _posts
